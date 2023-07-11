@@ -1,0 +1,10 @@
+.imagen-producto {
+    background-size:cover;
+    background-position: center center;
+    width:100%;
+    padding-top:100%;
+    &.imagen-rueda-erizo {
+        background-image: url(../images/bebe-erizo.jpeg);
+    }
+
+}

@@ -1,0 +1,16 @@
+{
+    "version": "2.0.0",
+    "command": "${cwd}/src/node_modules/.bin/grunt",
+    "tasks": [
+        {
+            "label": "grunt",
+            "args": [],
+            "type": "shell",
+            "command": "${cwd}\\src\\node_modules\\.bin\\grunt",
+            "problemMatcher": "$tsc-watch",
+            "options": {
+            }
+            
+        }
+    ]
+}
