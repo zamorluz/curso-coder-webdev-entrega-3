@@ -13176,7 +13176,13 @@ footer .footer-cta {
   padding-top: 100%;
 }
 .imagen-producto.imagen-rueda-erizo {
-  background-image: url(../images/bebe-erizo.jpeg);
+  background-image: url(../images/tienda/rueda-erizo.webp);
+}
+.imagen-producto.imagen-alimento-erizo {
+  background-image: url(../images/tienda/alimento-erizo.webp);
+}
+.imagen-producto.imagen-alimento-royal {
+  background-image: url(../images/tienda/royal-canin-performance-adult-cat.jpg);
 }
 
 /*# sourceMappingURL=curso-coder.css.map */
